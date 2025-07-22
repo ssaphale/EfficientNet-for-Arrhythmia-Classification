@@ -1,4 +1,4 @@
-# EfficientNetB7-for-Arrhythmia-Classification
+# EfficientNet-for-Arrhythmia-Classification
 Using Transfer Learning and Fine Tuning for High - Accuracy Arrhythmia Classification
 
 This repository contains the implementation of 13-class and 17-class arrhythmia classification models using 2D ECG heartbeat images. 
