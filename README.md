@@ -19,3 +19,23 @@ We apply transfer learning and fine-tuning on the EfficientNet-B7 architecture t
 🧠 Fine-tuning 118 layers for domain-specific performance
 
 🔢 Supports 12-class classification
+
+Arrhythmia Dataset Considered in the project
+
+Normal (Normal) 
+Left Bundle Branch Block (Left) 
+Right Bundle Branch Block (Right) 
+Ventricular Flutter wave (VFL)
+Supraventricular Beat (SupraVentricular)
+Paced Beat (PacedBeat) 
+Nodal Beat (Nodal) 
+IQRS Line (IQRS) 
+Atrial Premature Beat (Atrial) 
+Fusion of Paced and Normal Beat (FUPBN)
+Fusion of Ventricular and Normal Beat (FUVN)
+Ventricular Premature Beat (Ventricular)
+Ventricular Escape Beat (VEB)
+Nodal Junction Escape Beat (NJPB)
+Atrial Escape Beat (AEB) 
+Aberrated Atrial Premature Beat (AAPB)
+Unclassifiable Beat (Unclassificable_beat) 
