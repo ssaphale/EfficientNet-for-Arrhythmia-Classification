@@ -13,3 +13,9 @@ We apply transfer learning and fine-tuning on the EfficientNet-B7 architecture t
 
 📊 Evaluated with Accuracy, Precision, Recall, F1-Score,Classification Report and Confusion Matrix
 
+🚀 Highlights
+✅ Transfer learning with pretrained EfficientNet-B0
+
+🧠 Fine-tuning 118 layers for domain-specific performance
+
+🔢 Supports 12-class classification
